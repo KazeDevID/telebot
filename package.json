@@ -1,0 +1,22 @@
+{
+  "name": "telebot",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "telegram",
+    "bot",
+    "teh-bot"
+  ],
+  "license": "MIT",
+  "author": "kazedevid",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "teh-bot": "^1.0.4"
+  },
+  "devDependencies": {}
+}
